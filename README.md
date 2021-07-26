@@ -11,7 +11,7 @@ The main purpose of this analysis is to reframe the data set about ride-hailing 
 As is showed in the following table, Urban cities concentrate the volume in metrics, but on the other hand, the average fare is higher in suburban and rural cities, as there are fewer drivers than rides this push the prices up.
 
 Figure i: Summary by city type.
-![fig9](./Analysis/fig9.png)
+![fig9](./Analysis/Fig9.png)
 
 As was pointed out before, urban cities concentrate the volume but there are almost 1.5 drivers per ride, this can indicate more offers than demand and it translates into fewer average fares. Meanwhile, the graph below illustrates that in the period from January to April, weekly rural fares maintain below 500 USD, suburban above 500 and below 1,500 and Urban over 1,500 and below 2,500. With some peaks in February.
 
